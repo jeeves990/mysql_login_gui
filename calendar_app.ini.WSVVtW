@@ -1,0 +1,13 @@
+[App%20Geometry]
+calendar_app_geometry=@ByteArray(\x1\xd9\xd0\xcb\0\x3\0\0\0\0\x5\x99\0\0\0>\0\0\x6\xc8\0\0\x1\x82\0\0\x5\x9a\0\0\0]\0\0\x6\xc7\0\0\x1\x81\0\0\0\0\0\0\0\0\a\x80\0\0\x5\x9a\0\0\0]\0\0\x6\xc7\0\0\x1\x81)
+
+[calendar_app_values]
+ini%20filename=D:/GuiProgrammingWPython/UsingMySql\\calendar_app.ini
+
+[Database_connection_values]
+Host=127.0.0.1
+User=sherril
+Password=j33ves99
+Server_type=MySql
+Database_name=event_calendar
+Port=3305
